@@ -9,5 +9,5 @@ The following question will drive this project:
 
 The question focuses on the accommodation features and decisions a new host can make with regards to initial presentation, i.e. posting a picture of him- or herself on the website, determining a minimum length of stay, offering instant bookings etc. A machine learning algorithm will be applied to try to get an answer. 
 
-Download Data
+Data
 [Download](http://insideairbnb.com/get-the-data.html)
